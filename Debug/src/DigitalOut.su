@@ -1,8 +1,0 @@
-DigitalOut.cpp:35:1:DigitalOut::DigitalOut(GPIO_TypeDef*, uint32_t)	40	static
-DigitalOut.cpp:73:1:DigitalOut::~DigitalOut()	8	static
-DigitalOut.cpp:86:6:void DigitalOut::write(bool)	0	static
-DigitalOut.cpp:99:6:void DigitalOut::set()	0	static
-DigitalOut.cpp:108:6:void DigitalOut::reset()	0	static
-DigitalOut.cpp:117:6:void DigitalOut::toggle()	0	static
-DigitalOut.cpp:127:6:bool DigitalOut::read()	8	static
-DigitalOut.cpp:141:6:bool DigitalOut::getError()	0	static
