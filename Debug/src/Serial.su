@@ -1,0 +1,17 @@
+Serial.cpp:34:1:Serial::Serial(USART_TypeDef*, uint32_t)	72	static
+Serial.cpp:142:1:Serial::Serial(USART_TypeDef*, uint32_t, uint16_t)	72	static
+Serial.cpp:252:1:Serial::~Serial()	16	static
+Serial.cpp:309:6:void Serial::write(char*, uint16_t)	16	static
+Serial.cpp:315:6:void Serial::print(std::__cxx11::string)	16	static
+Serial.cpp:324:6:)	148	static
+Serial.cpp:335:6:void Serial::println(std::__cxx11::string)	16	static
+Serial.cpp:345:6:)	156	static
+Serial.cpp:362:8:size_t Serial::available()	0	static
+Serial.cpp:366:6:void Serial::read(uint8_t*, uint16_t)	20	static
+Serial.cpp:374:6:void Serial::peek(uint8_t*)	4	static
+Serial.cpp:380:6:void Serial::getChar(uint8_t*)	12	static
+Serial.cpp:386:6:bool Serial::getError()	0	static
+Serial.cpp:390:6:void Serial::interruptCallback()	4	static
+Serial.cpp:402:7:void USART1_IRQHandler()	4	static
+Serial.cpp:410:7:void USART2_IRQHandler()	4	static
+Serial.cpp:418:7:void USART6_IRQHandler()	4	static

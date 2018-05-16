@@ -1,0 +1,7 @@
+clock.h:30:13:void clockConfig()	96	static
+main.cpp:299:5:int parseInt(std::__cxx11::string, char, int)	56	static
+main.cpp:333:7:float parseFloat(std::__cxx11::string, char, float)	56	static
+main.cpp:364:6:void line(float, float)	64	static
+main.cpp:194:6:void parseCommand(std::__cxx11::string)	296	static
+main.cpp:123:5:int main()	144	static
+main.cpp:433:1:cpp)	56	static
